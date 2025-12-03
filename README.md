@@ -1,9 +1,11 @@
 # Reproducao do HGS-CVRP
-## Hybrid Genetic Search for the CVRP: Open-source implementation and SWAP* neighborhood
+## Artigo: Hybrid Genetic Search for the CVRP: Open-source implementation and SWAP* neighborhood
 
 Este repositorio apresenta uma tentativa de reproducao dos resultados do artigo:
 
 Vidal (2022) – Hybrid Genetic Search for the CVRP: Open-source implementation and SWAP* neighborhood.
+
+Link do artigo: https://www.sciencedirect.com/science/article/pii/S030505482100349X
 
 O objetivo e comparar o desempenho da implementacao publica disponibilizada no GitHub com os numeros apresentados no trabalho original.
 
@@ -31,7 +33,7 @@ O artigo demonstra que o metodo HGS + SWAP*:
 
 ## Metodologia de Reprodução
 
-Repositorio oficial utilizado:
+Repositorio oficial utilizado, onde estão os arquivos:
 https://github.com/vidalt/HGS-CVRP
 
 Condicoes adotadas nesta reproducao:
@@ -41,8 +43,6 @@ Condicoes adotadas nesta reproducao:
 - Tempo de execucao: 30 segundos por instancia (-t 30)  
 - Avaliacao baseada em Avg, Best, Gap e Gap Medio  
 - Comparacao com as tabelas apresentadas no artigo
-
-Observacao: o codigo publico nao e identico ao utilizado no paper. Diferencas nos resultados sao esperadas.
 
 ---
 
