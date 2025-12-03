@@ -1,0 +1,19 @@
+for s in {1..10}
+do
+    ./hgs ../Instances/CVRP/X-n101-k25.vrp sol_$s.sol -t 30 -seed $s
+done
+
+for s in {1..10}
+do
+    ./hgs ../Instances/CVRP/X-n266-k58.vrp sol_$s.sol -t 30 -seed $s
+done
+
+for s in {1..10}
+do
+    ./hgs ../Instances/CVRP/X-n513-k21.vrp sol_$s.sol -t 30 -seed $s
+done
+
+for s in {1..10}
+do
+    ./hgs ../Instances/CVRP/X-n1001-k43.vrp sol_$s.sol -t 30 -seed $s
+done
