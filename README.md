@@ -9,10 +9,10 @@ Link do artigo: https://www.sciencedirect.com/science/article/pii/S0305054821003
 
 O objetivo e comparar o desempenho da implementacao publica disponibilizada no GitHub com os numeros apresentados no trabalho original.
 
-Equioe
-Rafael Ponciano Vasceoncelos da Silva
-Marco Antônio Oliveira Machado
-Igor Rafael Carvalho Gonçalves
+Equipe:
+Rafael Ponciano Vasceoncelos da Silva;
+Marco Antônio Oliveira Machado;
+Igor Rafael Carvalho Gonçalves.
 
 ## Referencias
 
